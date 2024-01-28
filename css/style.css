@@ -9,6 +9,11 @@ header {
     color: white;
 }
 
+ul li {
+    list-style: none;
+    line-height: 2rem;
+}
+
 #container3D canvas {
     width: 100vw !important;
     height: 100vh !important;
